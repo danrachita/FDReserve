@@ -20,7 +20,7 @@ More information at [FDReserve.com](https://www.fdreserve.com/) Visit our [Disco
 <tr><td>Block Time</td><td>60 Seconds (1440 Blocks / Day)</td></tr>
 <tr><td>Max Block Size</td><td>2 MB (154 Tx / Sec)</td></tr>
 <tr><td>Min Stake Age</td><td>1 H (60 Blocks)</td></tr>
-<tr><td>Coin maturity</td><td>20</td></tr>
+<tr><td>Coin Maturity</td><td>20</td></tr>
 <tr><td>Max Coin Supply</td><td>49 999 999 FDR</td></tr>
 <tr><td>Premine</td><td>1 249 999 FDR (2.5 %)</td></tr>
 <tr><td>RPC Port</td><td>2424</td></tr>
