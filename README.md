@@ -51,7 +51,7 @@ More information at [FDReserve.com](https://www.fdreserve.com/) Visit our [Disco
 <tr><td>Phase 2</td><td>5001-25000</td><td>20 FDR</td><td>75% (15 FDR)</td><td>25% (5 FDR)</td></tr>
 <tr><td>Phase 3</td><td>25001-43410</td><td>40 FDR</td><td>75% (30 FDR)</td><td>25% (10 FDR)</td></tr>
 <tr><td>Phase 4</td><td>43411-100000</td><td>25 FDR</td><td>80% (20 FDR)</td><td>20% (5 FDR)</td></tr>
-<tr><td>Phase 5</td><td>100001-173010</td><td>30 FDR</td><td>85% (25.5 FDR)</td><td>15% (4.5 FDR)</td></tr>
+<tr><td>Phase 5</td><td>100001-173010</td><td>30 FDR</td><td>80% (24 FDR)</td><td>20% (6 FDR)</td></tr>
 <tr><td>Phase 6</td><td>173011-500000</td><td>40 FDR</td><td>85% (34 FDR)</td><td>15% (6 FDR)</td></tr>
 <tr><td>Phase 7</td><td>500001-750000</td><td>15 FDR</td><td>90% (13.5 FDR)</td><td>10% (1.5 FDR)</td></tr>
 <tr><td>Phase 8</td><td>750001-1750000</td><td>10 FDR</td><td>90% (9 FDR)</td><td>10% (1 FDR)</td></tr>
